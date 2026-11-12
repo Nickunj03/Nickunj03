@@ -15,6 +15,6 @@
 
 <p align="center"><img src="assets/skills.svg" alt="Skills: delivery, quality, setups and tools" width="100%"></p>
 
-<p align="center"><img src="assets/certs.svg" alt="Certificates from Google, Coursera and Microsoft" width="100%"></p>
+<p align="center"><img src="assets/certs.svg" alt="10 certifications from Google Cloud, PMI, Microsoft and Google" width="100%"></p>
 
 <p align="center"><a href="mailto:waghelanickunj@gmail.com"><img src="assets/contact.svg" alt="Let's build the next one. waghelanickunj@gmail.com" width="100%"></a></p>
